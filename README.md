@@ -1,1 +1,9 @@
 # bi-level-optimization-for-RCCAs
+
+### DISCLAIMER: USE AT YOUR OWN RISK. THERE IS NO IMPLIED WARRANTY WHATSOEVER!
+## Overview
+This repository contains a collection of MATLAB scripts for analyzing various properties of Refractory Complex Concentrated Alloys (RCCAs).The scripts cover a range of topics, including atomic size difference, local size mismatch, atomic size parameter γ, enthalpy of mixing of the alloy, configurational entropy of mixing , average melting point, comprehensive effect of the melting point difference, solid-solution formation parameter Ω, shear modulus difference, local modulus mismatch, modulus mismatch parameter η, valence electron concentration (VEC), average number of itinerant electrons per atom(e⁄a), electronegativity difference, local electronegativity mismatch, average energy cohesive (Brewer) , disordered solid solution formation parameter Λ, lattice distortion energy, energy factor, Painalgin factor, sixth power of work function, density, Vickers hardness. Addtionally, it includes a MATLAB script for building Back-propagation Neural Network(BPNN) and a collection of python scripts for Machine Learning(ML) Model, including gradient boosting regressor (GBR), multi-layer perceptron regressor (MLP), support vector regression (SVR), linear support vector regression (Linear SVR), k-nearest neighbor regressor (KNN), histogram gradient boosting regression (HGBoost), random forest regression (RF), bootstrap aggregating regression (Bagging), adaptive boosting regression (AdaBoost). Furthermore, bi-level optimization and pareto optimization, applied for obtaining the optimum alloy composition, are also included.
+## Notes
+This repository is provided "as is," and there are no guarantees or warranties associated with the code.
+Users are advised to exercise caution and thoroughly review the scripts before using them.
+The repository is actively maintained, and updates may be available to enhance or improve the scripts.
