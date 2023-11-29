@@ -8,7 +8,9 @@ we need use the formula to calculate these paramters. The parameters cover a ran
 ## model selection
 we need use pymodels and bpnn to choose the most suitable ML models.
 ## feature selection
-we need use the best ML models with all possible feature inputs.
+we need use the best ML models with all possible feature inputs to select the best feature set.
+## bi-level optimization
+we need use the best ML model with the best feature set as the mapping function to implement the mutiple obejective optimization through NSGAII in PlateEMO. And then we should define the objective funtion to search optimum properties with Pareto solutions and utilize the GA to search the desired composition  that approximates the Pareto solutions. 
 ## Notes
 This repository is provided "as is," and there are no guarantees or warranties associated with the code.
 Users are advised to exercise caution and thoroughly review the scripts before using them.
